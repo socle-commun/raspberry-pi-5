@@ -1,0 +1,19 @@
+{
+  "name": "@michel-montejuado/raspberry-pi5",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "author": "",
+  "private": true,
+  "license": "MIT",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3",
+    "vue": "^3.5.14"
+  }
+}
