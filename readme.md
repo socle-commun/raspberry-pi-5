@@ -52,7 +52,7 @@ Ce projet contient une documentation ultra-structurée, écrite avec amour (à l
 git clone https://github.com/socle-commun/raspberry-pi-5.git
 cd raspberry-pi-5
 npm install
-npm run docs:dev
+npm run dev
 ```
 
 Accès sur `http://localhost:5173`
