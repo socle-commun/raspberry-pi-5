@@ -8,43 +8,43 @@ Ce projet contient une documentation ultra-structurée, écrite avec amour (à l
 
 ### Getting Started
 
-* Installation de base
-* Configuration initiale
+- Installation de base
+- Configuration initiale
 
 ### Install
 
-* Préparation matérielle
-* Premier boot
-* Firmware & bootloader
+- Préparation matérielle
+- Premier boot
+- Firmware & bootloader
 
 ### Setup
 
-* Réseau, utilisateurs, SSH
-* Docker rootless
-* Boot NVMe (parce que la microSD c'est pour les touristes)
-
-### Advanced
-
-* ZFS / BTRFS : la Rolls des filesystems
-* Docker + Portainer : conteneurs sans douleur
-* Kubernetes sur ARM : le cauchemar en YAML
-
-### Extras
-
-* Tweaks CLI (alias, plugins, outils)
-* Backups (ou comment ne pas tout perdre comme un abruti)
+- Réseau, utilisateurs, SSH
+- Docker rootless
+- Boot NVMe (parce que la microSD c'est pour les touristes)
 
 ### System
 
-* Monitoring (voir souffrir ta machine)
-* Pare-feu & sécurité
-* Services & Daemons (fini le squat de démons inutiles)
+- Monitoring (voir souffrir ta machine)
+- Pare-feu & sécurité
+- Services & Daemons (fini le squat de démons inutiles)
+
+### Advanced
+
+- ZFS / BTRFS : la Rolls des filesystems
+- Docker + Portainer : conteneurs sans douleur
+- Kubernetes sur ARM : le cauchemar en YAML
+
+### Extras
+
+- Tweaks CLI (alias, plugins, outils)
+- Backups (ou comment ne pas tout perdre comme un abruti)
 
 ## ⚙️ Tech Stack
 
-* [VitePress](https://vitepress.dev/) : documentation ultra-rapide
-* Markdown + emojis + sarcasme : combo gagnant
-* GitHub Pages ready (ou autre hosting statique)
+- [VitePress](https://vitepress.dev/) : documentation ultra-rapide
+- Markdown + emojis + sarcasme : combo gagnant
+- GitHub Pages ready (ou autre hosting statique)
 
 ## 🚀 Lancer en local
 
@@ -61,10 +61,10 @@ Accès sur `http://localhost:5173`
 
 Chaque ligne de cette doc suit une charte brutale :
 
-* Pas de bullshit
-* Pas de jargon inutile
-* Si t'as pas compris, relis
-* Si t'as tout cassé, recommence
+- Pas de bullshit
+- Pas de jargon inutile
+- Si t'as pas compris, relis
+- Si t'as tout cassé, recommence
 
 ## 🤝 Contribuer
 
