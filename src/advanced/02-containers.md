@@ -12,7 +12,7 @@ sudo systemctl enable docker
 sudo systemctl start docker
 ```
 
-Ou en mode rootless : [voir chapitre Docker Rootless](/setup/03_docker_rootless)
+Ou en mode rootless : [voir chapitre Docker Rootless](/setup/03-docker-rootless)
 
 ## 🔧 Installer Portainer – L’interface web du dockerophile fainéant
 
